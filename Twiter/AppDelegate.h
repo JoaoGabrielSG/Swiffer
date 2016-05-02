@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  Twiter
 //
-//  Created by Gabriel Santos on 19/04/16.
-//  Copyright © 2016 Gabriel Santos and Clinton. All rights reserved.
+//  Created by Gabriel Santos and Clinton de Sa on 19/04/16.
+//  Copyright © 2016 Gabriel Santos and Clinton de Sa. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
