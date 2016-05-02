@@ -11,4 +11,8 @@
 
 @interface SweetsTableViewController : UITableViewController <UITableViewDelegate, UITableViewDataSource>
 
+@property NSMutableArray *sweets;
+
+@property UIRefreshControl* refresh;
+
 @end
